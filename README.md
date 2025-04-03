@@ -4,7 +4,7 @@ We introduce NExNet Seg, the Neuron Expansion Network for Medical Image Segmenta
 
 <p align="center">
   <figure>
-    <img width="700" src="images/NExNetSeg_detailed.png" alt="NexNetSeg Architecture">
+    <img width="750" src="images/NExNetSeg_detailed.png" alt="NexNetSeg Architecture">
     <figcaption>Illustration of the proposed NExNet Seg architecture for medical image segmentation. (a) NExNet Seg combines T-PEN and MaSA concepts. (b) T-PEN is embedded into the NEx blocks, while MaSA is combined with traditional convolution within the Conv MaSA block.</figcaption>
   </figure>
 </p>
