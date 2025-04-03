@@ -11,7 +11,7 @@ We introduce NExNet Seg, the Neuron Expansion Network for Medical Image Segmenta
 
 
 # UNDER CONSTRUCTION
-### In the meantime here is a picture of a 
+### In the meantime, here is a picture of a 
 <p align="center">
   <figure>
     <img width="700" src="images/quokka.jpg" alt="quokka">
