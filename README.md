@@ -121,9 +121,13 @@ NExNet Seg is designed for resource-constrained environments, with fewer paramet
 
 
 
+## Citation
+If you use NExNet Seg in your research, please cite:
+```bibtex
+comming soon
+```
 
 
-   
 # UNDER CONSTRUCTION
 ### In the meantime, here is a picture of a 
 <p align="center">
