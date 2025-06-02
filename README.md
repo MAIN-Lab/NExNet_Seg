@@ -89,13 +89,13 @@ NExNet Seg outperforms several state-of-the-art models in medical image segmenta
 | SegFormer      | -            | 0.851        | 0.869        | -        | 0.905           | 0.931           |
 | NExNet Seg     | **0.913**    | **0.921**    | **0.918**    | **0.936**| **0.943**       | **0.934**       |
 
-![Qualitative Comparison](figures/figure7.png)
-*Figure 7: Qualitative comparison of NExNet Seg with state-of-the-art methods. Blue contours represent ground truth, green contours represent predictions.*
+![Qualitative Comparison](images/predictions_comparison.png)
+*Qualitative comparison of NExNet Seg with state-of-the-art methods. Blue contours represent ground truth, green contours represent predictions.*
 
 ### Ablation Study
 The ablation study (Table 2) demonstrates the contribution of each component (T-PEN, MaSA, SSL). The full model with all components achieves the highest performance across datasets.
 
-![Ablation Study](figures/figure8b.png)
+![Ablation Study](images/discussion_plots.png)
 *Detailed examination of the proposed methodology. (a) Illustrates the performance capability of NExNet Seg with fewer
 trainable parameters in comparison with the state-of-the-art. [Different markers represent compared models, and different colors represent
 the dataset used in experiments] (b) Ablation analysis performance comparison.*
