@@ -124,7 +124,14 @@ NExNet Seg is designed for resource-constrained environments, with fewer paramet
 ## Citation
 If you use NExNet Seg in your research, please cite:
 ```bibtex
-comming soon
+@InProceedings{Reyes-Angulo_2025_CVPR,
+    author    = {Reyes-Angulo, Abel and Paheding, Sidike},
+    title     = {NExNet Seg: Neuron Expansion Network for Medical Image Segmentation},
+    booktitle = {Proceedings of the Computer Vision and Pattern Recognition Conference (CVPR) Workshops},
+    month     = {June},
+    year      = {2025},
+    pages     = {1-10}
+}
 ```
 
 
